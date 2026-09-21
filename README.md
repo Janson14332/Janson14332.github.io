@@ -1,10 +1,10 @@
-# 个人主页
+# Jiansong Zhang — Research Portfolio
 
-一个可直接部署到 GitHub Pages 的响应式个人主页。
+面向研究申请与学术交流的响应式个人主页，内容涵盖教育经历、研究项目、论文、实习、荣誉与技术栈。
 
 ## 修改个人信息
 
-打开 `script.js`，修改顶部的 `PROFILE` 配置即可替换姓名、简介、GitHub 地址和项目链接。当前版本已接入 `Janson14332` 的公开 GitHub 项目。
+打开 `script.js`，修改顶部的 `PROFILE` 配置即可替换姓名、简介、GitHub 地址和研究项目名称。主要研究内容位于 `index.html`。
 
 ## 发布到 GitHub Pages
 
